@@ -9,3 +9,4 @@
 |04/21|[DEVELOPING HEAVY-LIFT HYBRID DRONES FOR CONTESTED LOGISTICS](./note/0421.md)|
 |04/28|[具冒充者與欺騙攻擊偵測之語音辨識](./note/0428.md)|
 |05/05|缺席|
+|05/12|[綠色科技與光電元件之發展應用](./note/0512.md)|
